@@ -1,9 +1,7 @@
-/* Template Name: Cristino - Responsive Personal Template
-   Author: Shreethemes
-   Email: shreethemes@gmail.com
-   Website: http://www.shreethemes.in
-   Version: 1.9.0
-   Created: May 2020
+/* Template Name: KM Foliox – Blogger Template
+   Author: Kashif Murtaza
+   Email: realkmabbasi@gmail.com
+
    File Description: Main JS file of the template
 */
 
